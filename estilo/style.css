@@ -52,6 +52,7 @@ header > p {
     margin: auto;
     font-weight: bold;
     max-width: 450px;
+    padding-bottom: 30px;
     padding-left: 10px;
     padding-right: 10px;
 }
